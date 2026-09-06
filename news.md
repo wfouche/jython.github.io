@@ -12,7 +12,7 @@ Until very recently, Jython releases had to be downloaded and installed locally 
 * jbang run jython-latest@jython
 * jbang run jython-release@jython
 
-The jython can also be installed using command:
+Jython can also be installed as a local application using the following command:
 
 * jbang install app jython@jython
 
