@@ -6,7 +6,7 @@ title: News
 
 ### JBang support for running Jython (September 2026)
 
-Until very recently, Jython releases had to be downloaded and installed locally before they could be used. A JBang wrapper for Jython is now available that allows Jython scripts to be executed without first having to install Jython.
+Until very recently, Jython releases had to be downloaded and installed locally before they could be used. A JBang wrapper for Jython is now available that allows Jython scripts to be executed without first installing Jython.
 
 * jbang run jython@jython
 * jbang run jython-latest@jython
