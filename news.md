@@ -8,13 +8,13 @@ title: News
 
 Until very recently, Jython releases had to be downloaded and installed locally before they could be used. A JBang wrapper for Jython is now available that allows Jython scripts to be executed without first installing Jython.
 
-* jbang run jython@jython
+* jbang run jython-cli@jython
 
 Jython can also be installed as a local application using the following command:
 
-* jbang install app jython@jython
+* jbang install app jython-cli@jython
 
-To run or install a specific version of Jython add `-Djbang.jython.version=<version>` to the command, e.g. `jbang run -Djbang.jython.version=2.7.4 jython@jython` or `jbang install app -Djbang.jython.version=2.7.4 jython@jython`.
+To run or install a specific version of Jython add `-Djbang.jython.version=<version>` to the command, e.g. `jbang run -Djbang.jython.version=2.7.4 jython-cli@jython` or `jbang install app -Djbang.jython.version=2.7.4 jython-cli@jython`.
 
 ### Jython 2.7.5 beta (v2.7.5b1 August 2026)
 
